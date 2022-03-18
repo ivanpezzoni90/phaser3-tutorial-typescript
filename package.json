@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/geocine/phaser3-rollup-typescript.git"
   },
-  "author": "Aivan Monceller",
+  "author": "Ivan Pezzoni",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/geocine/phaser3-rollup-typescript/issues"
